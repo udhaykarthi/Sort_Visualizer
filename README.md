@@ -25,7 +25,8 @@ It demonstrates how different sorting algorithms work by representing array elem
 ---
 
 ## 🖥️ Demo
-![demo.gif]()
+
+![demo](https://github.com/user-attachments/assets/32046ec6-9448-485c-b738-fddd22475f1c)
 
 
 ## 🚀 How to Run
